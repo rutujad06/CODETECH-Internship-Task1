@@ -16,4 +16,7 @@ Key Activities:- Create Tasks: Easily add new tasks with titles, descriptions, a
 Track Progress: Mark tasks as complete or in-progress to monitor progress. Edit Tasks: Update task details, including editing titles, descriptions, and due dates.
 Delete Tasks: Remove tasks that are no longer needed. User Authentication: (Optional) Allow users to create accounts and log in to save and manage their personalized task lists.
 
-Technologies Used:- To build a simple To-Do List web application using HTML, CSS, and JavaScript, you would leverage these technologies in the following ways- *HTML HTML (HyperText Markup Language) is used to structure the content of the web application.It defines the layout and elements of the application. *CSS CSS (Cascading Style Sheets) is used to style the HTML elements and create an attractive and user-friendly interface. *JavaScript JavaScript is used to add interactivity to the application, such as adding new tasks, marking tasks as complete, and deleting tasks.
+Technologies Used:- To build a simple To-Do List web application using HTML, CSS, and JavaScript, you would leverage these technologies in the following ways-
+HTML HTML (HyperText Markup Language) is used to structure the content of the web application.It defines the layout and elements of the application.
+CSS CSS (Cascading Style Sheets) is used to style the HTML elements and create an attractive and user-friendly interface.
+JavaScript JavaScript is used to add interactivity to the application, such as adding new tasks, marking tasks as complete, and deleting tasks.
