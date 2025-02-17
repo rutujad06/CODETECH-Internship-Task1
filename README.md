@@ -1,4 +1,4 @@
-# CODETECH-Internship-Task1
+# CODETECH-Task1
 
 Name:- Rutuja Dhamale
 Company:-CODETECH IT SOLUTIONS
